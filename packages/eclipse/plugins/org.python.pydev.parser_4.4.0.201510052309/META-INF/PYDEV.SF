@@ -1,0 +1,25 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: tm7AZh3bt2Dd4Yb8xbYale1Ce9K6Y
+ /q1t1hww2Pwzlk=
+SHA-256-Digest-Manifest: sLyg3zC6DTLUuW91GYtfenpq4i6c+iEo2mar1H079Tw=
+Created-By: 1.7.0_55 (Oracle Corporation)
+
+Name: schema/pydev_parser_observer.exsd
+SHA-256-Digest: acMQ0ljk262HXCC1dxc6fenp7hSlYL9VtrJWbWDLNFU=
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.parser/pom.prop
+ erties
+SHA-256-Digest: S0i515+KwL8h5tRIe9uCJY3B8cDTQG4psAAgsI2cNTM=
+
+Name: LICENSE.txt
+SHA-256-Digest: kKR//0aU3zBgl9SCeCpwoQ+GrOEHBzEb90XcPTX/6Do=
+
+Name: plugin.xml
+SHA-256-Digest: vwAhs+5oTjfnqk+dLB/djzOAERzH4nmKmhiBS/SeNQ4=
+
+Name: parser.jar
+SHA-256-Digest: rR1Nvc568hzVVb/+QTPniigkS86IxlYDSkum3IJ7gRM=
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.parser/pom.xml
+SHA-256-Digest: oal993qJ3C4FCA0TkF3fXTMOfv08D+sJgoZR/a0E66A=
+
